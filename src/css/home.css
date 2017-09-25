@@ -1,0 +1,26 @@
+.home{
+  margin-top: 10px;
+}
+.home .title-pic{
+  display: flex;
+  padding-top: 10px;
+}
+.home .title-pic a{
+  text-decoration: none;
+  color:#FFCC33;
+  flex-grow: 1;
+  text-align: center;
+}
+.home .title{
+  margin-top: 30px;
+  text-align: center;
+  border-top: 3px solid #ccc;
+}
+.home .title h1{
+  font-size: 21px;
+}
+.home .shop p{
+  line-height: 21px;
+  font-size: 16px;
+  font-family: "Microsoft YaHei";
+}

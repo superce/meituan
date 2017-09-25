@@ -1,0 +1,12 @@
+.footer{
+  height: 100%;
+  display: flex;
+  
+}
+.footer a{
+  text-decoration: none;
+  flex-grow: 1;
+  display: block;
+  text-align: center;
+  color:#666666;
+}

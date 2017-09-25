@@ -1,0 +1,21 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.header .return{
+  width: 55px;
+  margin-left: 10px;
+}
+.header i{
+  width: 55px;
+  display: block;
+  color:#666666;
+  padding-top: 7px;
+}
+.header .title>h1{
+  display: block;
+  font-size: 25px;
+  line-height: 21px;
+  color:#666666;
+  font-family: "Times New Roman";
+}

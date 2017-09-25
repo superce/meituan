@@ -1,0 +1,25 @@
+body{
+  margin: 0;padding: 0;
+}
+*{
+  box-sizing: border-box;
+}
+.app{
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+}
+.app .app-header{
+  height: 55px;
+  flex-shrink: 0;
+  background-color: #FFCC33;
+}
+.app .app-main{
+  flex-grow: 1;
+  overflow-y: scroll;
+}
+.app .app-footer{
+  height: 55px;
+  flex-shrink: 0;
+  background-color: #F5F5F5;
+}
